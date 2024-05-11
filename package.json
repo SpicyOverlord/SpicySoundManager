@@ -7,7 +7,4 @@
     "name": "Spicy Overlord",
     "url": "https://github.com/SpicyOverlord"
   },
-  "dependencies": {
-    "com.dbrizov.naughtyattributes": "2.1.4"
-  }
 }
