@@ -1,0 +1,10 @@
+{
+  "name": "com.SpicyOverlord.SpicySoundManager",
+  "displayName": "Spicy Sound Manager",
+  "version": "1.0.0",
+  "description": "SpicySoundManager is a simple sound manager.",
+  "author": {
+    "name": "Spicy Overlord",
+    "url": "https://github.com/SpicyOverlord"
+  }
+}
